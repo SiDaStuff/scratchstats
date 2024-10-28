@@ -3,7 +3,7 @@
 ## Installation Instructions
 
 1. **Download the Extension**:
-   - [Download the extension ZIP file](https://github.com/SiDaStuff/scratchstats.git)
+   - [Download the extension ZIP file](https://github.com/SiDaStuff/scratchstats/archive/refs/tags/1.0.zip)
 
 2. **Extract the ZIP File**:
    - Extract the downloaded ZIP file to a folder on your computer.
